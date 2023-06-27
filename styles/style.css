@@ -1,0 +1,112 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+
+
+
+
+.pic{
+	margin-top: -10px;
+    margin-right: 900px;
+    margin-left: 50px;
+
+
+}
+.container1{
+	display: inline-block;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 700;
+	padding-top: 20px;
+	margin-left: 70px;
+
+}
+header {
+	background-color: #FFFFFF;
+	padding: 20px;
+	width: 100%;
+	position: fixed;
+	top: 0;
+	z-index: 100;
+	
+}
+
+span{
+	margin-right: 20px;
+	margin-top: 20px;
+
+
+}
+
+.kkk{
+    margin-top: 90px;
+    margin-left: 15px;
+    display: inline;
+    position: absolute;
+    z-index: -1;
+}
+
+h2 {
+	
+
+    text-align: center;
+    display: inline;
+    font-size: 80px;
+
+}
+
+.parent {
+	display: inline;
+	position: relative;
+}
+.container{
+    margin-top: 80px;
+    position: relative;
+    margin-left: 15px;
+    margin-top: 20px;
+
+}
+
+.container img{
+
+}
+.text{
+    color: #FFFFFF;
+    position: absolute;
+    top: 250px;
+    left: 500px;
+
+    
+    transform: translate(-50% -50%);
+}
+
+.text p{
+    
+}
+
+.flex-container {
+    
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: ;
+    margin-top: ;
+    padding-left: 100px;
+    margin-top: 30px;
+   
+
+}
+
+.flex-container > div {
+    background-color: white;
+    margin-left: 20px;
+
+   
+
+}  
+
+h1 {
+    display: inline;
+}
+.ppp{
+    padding-left: 424px;
+}
